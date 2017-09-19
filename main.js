@@ -13,6 +13,8 @@ $(document).ready(function() {
   // Active link switching
   $(window).scroll(function() {
 
+    var scrollbarLocation = $(this).scrollTop();
+
   });
 
 });
