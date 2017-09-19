@@ -5,3 +5,5 @@ Smooth scrolling not only looks cool but, for one-page sites, it can also help m
 Demo site is based on Bootstrap, which has a nice 'active' link class which highlights one of the links in the navigation.
 
 With a few more lines of jQuery, we can have that active link class switch between links in the navigation as we scroll down the page, once again helping with the user experience.
+
+[View demo site here.](https://webdevtuts.github.io/smooth_scrolling_with_jquery/)
