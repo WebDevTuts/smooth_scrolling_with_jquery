@@ -10,4 +10,9 @@ $(document).ready(function() {
     }, 1000);
   });
 
+  // Active link switching
+  $(window).scroll(function() {
+
+  });
+
 });
